@@ -32,4 +32,4 @@ public class PentominoSolver {
     public int getSteps() {
         return steps;
     }
-}   
+}
